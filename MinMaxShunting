@@ -6,7 +6,7 @@ The implementation must include a Stack ADT and its concrete implementation.
 
 import java.util.Scanner;
      
-public class MinMaxShunting {
+public class Main {
     public static void main(String[] args) {
         String outputQueue = "";
         Stack<String> stack = new ArrayStack<>();
