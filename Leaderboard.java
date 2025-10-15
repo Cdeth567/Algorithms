@@ -1,7 +1,8 @@
 /*
 Brief description of the problem:
 Given an unsorted list of players with their scores, build a leaderboard showing the top K players.
-Implement a separate sorting function that takes the list of player records and the maximum leaderboard size K, then returns a new array containing the top K players sorted by descending score.
+Implement a separate sorting function that takes the list of player records and the maximum
+leaderboard size K, then returns a new array containing the top K players sorted by descending score.
 */
 import java.util.Scanner;
 
