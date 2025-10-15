@@ -1,12 +1,11 @@
 /*
 Brief description of the problem:
-Given an unsorted list of players with their scores, build a **leaderboard** showing the top **K** players.
-Implement a separate sorting function that takes the list of player records and the maximum leaderboard size **K**, then returns a new array containing the top **K** players sorted by descending score.
+Given an unsorted list of players with their scores, build a leaderboard showing the top K players.
+Implement a separate sorting function that takes the list of player records and the maximum leaderboard size K, then returns a new array containing the top K players sorted by descending score.
 */
-
 import java.util.Scanner;
 
-public class Leaderboard {
+public class SelectionSortAlgorithm {
     public static void selectionSort(int[] scores, String[] players, int length, int count) {
         boolean flag = true;
         for (int i = 0; i < length - 1; i++) {
