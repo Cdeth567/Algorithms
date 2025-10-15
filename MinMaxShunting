@@ -1,6 +1,7 @@
 /*
 Brief description of the problem:
-Convert a mathematical expression in infix notation with min and max functions to postfix notation (Reverse Polish Notation) using the Shunting Yard algorithm.
+Convert a mathematical expression in infix notation with min and max functions to
+postfix notation (Reverse Polish Notation) using the Shunting Yard algorithm.
 The implementation must include a Stack ADT and its concrete implementation.
 */
 
