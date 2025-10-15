@@ -6,7 +6,7 @@ Implement a separate sorting function that either returns a new sorted array or 
 
 import java.util.Scanner;
 
-public class BubbleSort {
+public class BubbleSortAlgorithm {
     public static void bubbleSort(int[] arr, int n) {
         boolean flag = true;
         while (flag) {
