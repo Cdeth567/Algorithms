@@ -5,7 +5,7 @@ Implement a separate sorting function that takes the list of player records and 
 */
 import java.util.Scanner;
 
-public class SelectionSortAlgorithm {
+public class Leaderboard {
     public static void selectionSort(int[] scores, String[] players, int length, int count) {
         boolean flag = true;
         for (int i = 0; i < length - 1; i++) {
