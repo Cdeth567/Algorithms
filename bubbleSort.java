@@ -1,3 +1,9 @@
+/*
+Brief description of the problem:
+Given a nearly sorted sequence of integers, efficiently sort it.
+Implement a separate sorting function that either returns a new sorted array or sorts the input array in place.
+*/
+
 import java.util.Scanner;
 
 public class task1 {
